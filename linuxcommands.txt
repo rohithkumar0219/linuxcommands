@@ -1,0 +1,9 @@
+ls
+cd
+mkdir
+rm -rf
+cd ..
+touch 
+nano
+mv 
+history
